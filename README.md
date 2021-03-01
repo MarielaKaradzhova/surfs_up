@@ -1,11 +1,9 @@
 # Surf's Up 
 *Investing in Waves and Ice Cream*
 
-![](https://github.com/MarielaKaradzhova/surfs_up/blob/main/Resources/surf.png) 
+![](https://github.com/MarielaKaradzhova/surfs_up/blob/main/Resources/surf.png) ![](https://github.com/MarielaKaradzhova/surfs_up/blob/main/Resources/oahu.png)  
 
-![](https://github.com/MarielaKaradzhova/surfs_up/blob/main/Resources/oahu.png) | 
-
-Oahu,Hawaii*
+*Surf and Ice Cream shop on the beautiful island of Oahu,Hawaii*
 ## Purpose of Project
 The purpose of this project is to explore and analyze weather data in order to determine if it would be a good investment to start a surf and ice cream shop in Oahu, Hawaii.
 
